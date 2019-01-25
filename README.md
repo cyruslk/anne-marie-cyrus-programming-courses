@@ -2,11 +2,23 @@
 
 
 
+## Useful links:
+
+1. W3SCHOOLS
+   1. https://www.w3schools.com/js/js_string_methods.asp
+   2. https://www.w3schools.com/js/js_strings.asp
+2. This video:
+   1. https://www.youtube.com/watch?v=rRgD1yVwIvE
+3. Ressources for questions and debugging:
+   1. https://stackoverflow.com/
+
+
+
 ## AS A WARM UP...
 
 1. From a string, return an array of letters. 
 2. From an array, return a string.
-3. If a numeber is passed into a function that accepts only strings or arrays, return something like `sorry, wrong parameter`.
+3. If a number is passed into a function that accepts only strings or arrays, return something like `sorry, wrong parameter`.
 
 
 ------
