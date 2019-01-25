@@ -1,1 +1,32 @@
-# anne-marie-cyrus-week-1
+# anne-marie-cyrus-week-1 (2019.01.25)
+
+
+
+## AS A WARM UP...
+
+1. From a string, return an array of letters. 
+2. From an array, return a string.
+3. If a numeber is passed into a function that accepts only strings or arrays, return something like `sorry, wrong parameter`.
+
+
+------
+
+
+
+1. From a string, return the first letter only. If another parameter is passed, return `undefined`. 
+
+2. From a string, return the last letter only. If another parameter is passed, return `undefined`. 
+
+3. From a string, return only the letter located at position `2`. If the word length is too short for this program, return the following log: `Please enter a longer word.`
+
+4. From a string, return only letters located at position `2` and position `4`.   If the word length is too short for this program, return the following log: `Please enter a longer word.`
+
+5. From a string, return the same string with first and last letters removed. If, for an example, I'm passing to the program the following string: `Hello`, the program should return me `ello`.   If the word length is too short for this program, return the following log: `Please enter a longer word`. 
+
+6. From a string, return the same string with the letter located at position `4` removed.
+
+7. From a string, return only the even letters. If the word is `Hello world`, the returned string should be someting like `Hlowl`. 
+
+8. From a string, return a new version of this string where each letters would be outputted twice. If the word is `Hello world`, the returned string should be something like `HHeelloo  wwoorrlldd`
+
+9. From a string, return its reversed version. If the word if `Hello`, the returned word should be `olleH`.
