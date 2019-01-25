@@ -7,6 +7,7 @@
 1. W3SCHOOLS
    1. https://www.w3schools.com/js/js_string_methods.asp
    2. https://www.w3schools.com/js/js_strings.asp
+   3. https://www.w3schools.com/js/js_array_methods.asp
 2. This video:
    1. https://www.youtube.com/watch?v=rRgD1yVwIvE
 3. Ressources for questions and debugging:
