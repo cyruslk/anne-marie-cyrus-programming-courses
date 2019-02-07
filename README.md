@@ -31,7 +31,7 @@
 
 3. From a string, return only the letter located at position `2`. If the word length is too short for this program, return the following log: `Please enter a longer word.`
 
-4. From a string, return only letters located at position `2` and position `4`. If the word length is too short for this program, return the following log: `Please enter a longer word.`
+4. From a string, return only letters located at position `2` and at position `5`.  If the word length is too short for this program, return the following log: `Please enter a longer word.`
 
 5. From a string, return the same string with first and last letters removed. If, for an example, I'm passing to the program the following string: `Hello`, the program should return me `ello`.   If the word length is too short for this program, return the following log: `Please enter a longer word`. 
 
