@@ -35,11 +35,10 @@
 
 5. From a string, return the same string with first and last letters removed. If, for an example, I'm passing to the program the following string: `Hello`, the program should return me `ello`.   If the word length is too short for this program, return the following log: `Please enter a longer word`. 
 
-6. From a string, return the same string with the letter located at position `4` removed.
+6. From a string, return the same string with the letter located at position `5` removed.
 
 7. From a string, return only the even letters. If the word is `Hello world`, the returned string should be someting like `Hlowl`. 
 
 8. From a string, return a new version of this string where each letters would be outputted twice. If the word is `Hello world`, the returned string should be something like `HHeelloo  wwoorrlldd`
 
 9. From a string, return its reversed version. If the word if `Hello`, the returned word should be `olleH`.
-
