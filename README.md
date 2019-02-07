@@ -21,7 +21,6 @@
 2. From an array, return a string.
 3. If a number is passed into a function that accepts only strings or arrays, return something like `sorry, wrong parameter`.
 
-
 ------
 
 
@@ -43,3 +42,4 @@
 8. From a string, return a new version of this string where each letters would be outputted twice. If the word is `Hello world`, the returned string should be something like `HHeelloo  wwoorrlldd`
 
 9. From a string, return its reversed version. If the word if `Hello`, the returned word should be `olleH`.
+
