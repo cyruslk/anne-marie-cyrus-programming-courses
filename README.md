@@ -123,8 +123,11 @@ Before going to Node.js: introduction to objects, methods and the `this` keyword
 SMALL NODE.JS PROJECT! - going closer to 'full stack-projects' we'll do soon!
 
 - Fetching data from external API's.
-  Have a look here: https://github.com/toddmotto/public-apis
-  Have a look here: https://any-api.com/
+
+  - Have a look here: https://github.com/toddmotto/public-apis
+
+  - Have a look here: https://any-api.com/
+
 - Let's see if we can fix your git. Otherwise, you'll use a `c9` workspace.
 
 1. Is npm installed? If so, `npm init` inside a new folder. Inside this folder, install `prompt`, then `axios` or `request-promise`. Find these NPM packages on the internet!
