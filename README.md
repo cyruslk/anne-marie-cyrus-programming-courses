@@ -125,7 +125,7 @@ SMALL NODE.JS PROJECT! - going closer to 'full stack-projects' we'll do soon!
 - Fetching data from external API's. For bigger projects we'll do later:
   - Have a look here: https://github.com/toddmotto/public-apis
   - Have a look here: https://any-api.com/
-- Alo, let's see if we can fix your git when we'll meet. Otherwise, you'll use a `c9` workspace (it's a virtual machine with git already installed).
+- Also, let's see if we can fix your git when we'll meet. Otherwise, you'll use a `c9` workspace (it's a virtual machine with git already installed).
 
 1. Is npm installed? If so, `npm init` inside a new folder. Inside this folder, install `prompt`, then `axios` or `request-promise`. Find these NPM packages on the internet!
 2. Ask the user of the program his nickname. Once this nickname is received, log to the consle : `Hello dear {name}`.  If nothing was entered, prompt again.
